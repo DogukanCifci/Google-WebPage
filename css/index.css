@@ -33,6 +33,7 @@ nav {
   padding: 5px 12px;
   text-align: center;
   margin-right: 15px;
+  border: 1px solid gray;
 }
 .sol a {
   text-decoration: none;
